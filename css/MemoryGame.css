@@ -239,49 +239,49 @@ body {
 }
 
 .back.card-1 {
-  background-image: url(../images/fruits/apple.jpg);
+  background-image: url(../images/fruits/001-Hydrogen.png);
 }
 .back.card-2 {
-  background-image: url(../images/fruits/fig.jpg);
+  background-image: url(../images/fruits/002-Helium.png);
 }
 .back.card-3 {
-  background-image: url(../images/fruits/grape.jpg);
+  background-image: url(../images/fruits/003-Lithium.png);
 }
 .back.card-4 {
-  background-image: url(../images/fruits/kiwi.jpg);
+  background-image: url(../images/fruits/003-Lithium.png);
 }
 .back.card-5 {
-  background-image: url(../images/fruits/lemon.jpg);
+  background-image: url(../images/fruits/004-Beryllium.png);
 }
 .back.card-6 {
-  background-image: url(../images/fruits/lime.jpg);
+  background-image: url(../images/fruits/005-Boron.png);
 }
 .back.card-7 {
-  background-image: url(../images/fruits/mango.jpg);
+  background-image: url(../images/fruits/006-Carbon.png);
 }
 .back.card-8 {
-  background-image: url(../images/fruits/melon.jpg);
+  background-image: url(../images/fruits/007-Nitrogen.png);
 }
 .back.card-9 {
-  background-image: url(../images/fruits/orange.jpg);
+  background-image: url(../images/fruits/008-Oxygen.png);
 }
 .back.card-10 {
-  background-image: url(../images/fruits/peach.jpg);
+  background-image: url(../images/fruits/009-Fluorine.png);
 }
 .back.card-11 {
-  background-image: url(../images/fruits/pear.jpg);
+  background-image: url(../images/fruits/010-Neon.png);
 }
 .back.card-12 {
-  background-image: url(../images/fruits/pinapple.jpg);
+  background-image: url(../images/fruits/011-Sodium.png);
 }
 .back.card-13 {
-  background-image: url(../images/fruits/plum.jpg);
+  background-image: url(../images/fruits/012-Magnesium.png);
 }
 .back.card-14 {
-  background-image: url(../images/fruits/raspberry.jpg);
+  background-image: url(../images/fruits/013-Aluminium.png);
 }
 .back.card-15 {
-  background-image: url(../images/fruits/strawberry.jpg);
+  background-image: url(../images/fruits/014-Silicon.png);
 }
 
 /** Matching Cards **/
